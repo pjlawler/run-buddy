@@ -13,4 +13,4 @@ https://pjlawler.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by Patrick Lawler
 
-# Run Buddy Inc.
+### ©️2019 Run Buddy, Inc 
